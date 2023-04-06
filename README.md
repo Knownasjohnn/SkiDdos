@@ -19,3 +19,10 @@ Installation:
 
 ~pkg upgrade
 
+~git clone https://github.com/Knownasjohnn/SkiDdos
+
+~cd SkiDdos
+
+~pip install -r requirements.txt
+
+~python skid.py
